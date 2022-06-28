@@ -1,17 +1,27 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "ComparatorCraftSMP",
+		"ip": "play.comparatorcraftsmp.net",
 		"type": "PC"
 	},
 	{
-		"name": "Mineplex",
-		"ip": "us.mineplex.com",
+		"name": "BoredomMC",
+		"ip": "play.boredommc.com",
 		"type": "PC"
 	},
 	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "SimplyMC",
+		"ip": "play.simplymc.net",
+		"type": "PC"
+	},
+	{
+		"name": "UltraVanilla",
+		"ip": "play.ultravanilla.world",
+		"type": "PC"
+	},
+	{
+		"name": "The Oldies",
+		"ip": "135.148.52.83:25682",
 		"type": "PC"
 	}
 ]
